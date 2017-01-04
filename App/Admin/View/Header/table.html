@@ -1,0 +1,91 @@
+<div id="toolbar">
+	<?php if($toolbar_form_param != null) {?>
+	<div style="float: left;">
+		<form class="form-inline" role="form" id="<{$tablename}>_search_form">
+			<foreach name="toolbar_form_param" item="toolbar"> <if
+				condition="$toolbar['type'] eq 1">
+			<div class="form-group" style="float: left; margin-right: 20px;">
+				<label><{$toolbar['field_title']}> </label> <input type="text"
+					name="<{$toolbar['field_name']}>" id="<{$toolbar['field_id']}>"
+					class="form-control"
+					style="width: auto; margin-left: 5px; <{$toolbar['style']}>"
+					value="<{$toolbar['default_value']}>" />
+			</div>
+			<elseif condition="$toolbar['type'] eq 2" />
+			<div class="form-group" style="float: left; margin-right: 20px;">
+				<label><{$toolbar['field_title']}> </label> <select
+					id="<{$toolbar['field_id']}>" name="<{$toolbar['field_name']}>"
+					class="form-control"
+					style="width: auto; margin-left: 5px; <{$toolbar['style']}>">
+					<foreach name="toolbar['option']" item="options"> <if
+						condition="$toolbar['default_value'] eq $options['key']">
+					<option value="<{$options['key']}>" selected="true"><{$options['value']}></option>
+					<else />
+					<option value="<{$options['key']}>"><{$options['value']}></option>
+					</if> </foreach>
+				</select>
+			</div>
+			<elseif condition="$toolbar['type'] eq 3" />
+			<div class="form-group" style="float: left; margin-right: 20px;">
+				<label><{$toolbar['field_title']}> </label>
+				<div class="datepicker"
+					style="margin-bottom: 2px; width: 150px; padding: 0px 15px 0px 0px; margin-left: 5px; <{$toolbar['style']}>">
+					<input type="text" id="<{$toolbar['field_id']}>"
+						name="<{$toolbar['field_name']}>"
+						class="single_date_picker form-control"
+						value="<{$$toolbar['default_value']}>"> <i
+						class="glyphicon glyphicon-calendar fa fa-calendar"></i>
+				</div>
+			</div>
+			<elseif condition="$toolbar['type'] eq 4" />
+			<div class="form-group" style="float: left; margin-right: 20px;">
+				<label><{$toolbar['field_title']}> </label>
+				<div class="datepicker"
+					style="margin-bottom: 2px; width: 250px; padding: 0px 15px 0px 0px; margin-left: 5px; <{$toolbar['style']}>">
+					<input type="text" id="<{$toolbar['field_id']}>"
+						name="<{$toolbar['field_name']}>"
+						class="double_date_picker form-control"
+						value="<{$$toolbar['default_value']}>"> <i
+						class="glyphicon glyphicon-calendar fa fa-calendar"></i>
+				</div>
+			</div>
+			</if> </foreach>
+		</form>
+	</div>
+	<div style="float: left; margin-right: 20px;">
+		<button type="button" id="<{$tablename}>_search"
+			class="btn btn-primary">查询</button>
+	</div>
+	<?php } ?>
+	<foreach name="toolbar_btn_param" item="toolbar_btn">
+	<div style="float: left;">
+		<button type="button" id="<{$toolbar_btn['field_id']}>"
+			name="<{$toolbar_btn['field_name']}>"
+			class="btn <{$toolbar_btn['class']}>"
+			onclick="<{$toolbar_btn['default_value']}>"><{$toolbar_btn['field_title']}></button>
+	</div>
+	</foreach>
+</div>
+<table id="<{$tablename}>_table"></table>
+
+
+<script type="text/javascript">
+$(function(){
+	$_table = $("#<{$tablename}>_table");
+	$_table.bootstrapTable(
+		<{$table_param}>
+	);
+	
+	$("#<{$tablename}>_search").click(function(){
+		var content = $("#<{$tablename}>_search_form").serialize();
+		var url = "<{$table_url}>";
+		if (url.indexOf('?') != -1) {
+			url += '&' + content;
+		} else {
+			url += '?' + content;
+		}
+		$_table.bootstrapTable('refresh',{url:url});
+	});
+});
+
+</script>

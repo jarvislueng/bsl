@@ -1,0 +1,367 @@
+[ 2016-12-29T00:22:18+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T00:22:31+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T11:54:43+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T11:54:43+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T11:55:29+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:06:15+08:00 ] 127.0.0.1 /Admin/Login/login/checkLogin.html
+ERR: 模板不存在:./by_admin/Admin/View/Login/login/login.html
+
+[ 2016-12-29T12:06:15+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:07:57+08:00 ] 127.0.0.1 /Admin/Login/login/checkLogin.html
+ERR: 模板不存在:./by_admin/Admin/View/Login/login.html
+
+[ 2016-12-29T12:07:57+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:08:06+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:08:14+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:09:31+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:09:34+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:09:37+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:10:22+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:11:41+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:11:47+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:11:50+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:12:07+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:12:12+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:12:48+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:12:49+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:12:50+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:12:52+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:12:59+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:13:01+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:04+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:11+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:14+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:13:21+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:22+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:25+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:13:27+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:28+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:49+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:13:53+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:13:56+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:14:12+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:14:14+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:15:08+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:15:09+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:15:10+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:15:10+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:15:10+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:15:13+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:15:51+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:15:55+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:15:56+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:15:59+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:16:00+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:16:24+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:18:18+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:18:22+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:19:00+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:19:01+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:19:10+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:19:26+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:19:27+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:19:45+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:19:47+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:31:52+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:31:55+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:31:56+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:31:58+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:32:00+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:32:02+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:32:46+08:00 ] 127.0.0.1 /index.js.map
+ERR: 无法加载控制器:Index.js.map
+
+[ 2016-12-29T12:32:52+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:33:01+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:35:47+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:35:54+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:38:53+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:38:57+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:39:15+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:39:16+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:39:23+08:00 ] 127.0.0.1 /Admin/Login/login/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2016-12-29T12:48:55+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:49:04+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:50:58+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:50:58+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T12:51:02+08:00 ] 127.0.0.1 /Login/index.js.map
+ERR: 无法加载控制器:Login/index.js.map
+
+[ 2016-12-29T06:28:36+08:00 ] 127.0.0.1 /Admin/Login/login/checkLogin.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-12-29T06:29:50+08:00 ] 127.0.0.1 /Admin/Login/login/checkLogin.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-12-29T06:31:22+08:00 ] 127.0.0.1 /Admin/Settings/Index/index.html
+ERR: 1146:Table 'bsl_copy.menu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `menu`
+
+[ 2016-12-29T06:33:40+08:00 ] 127.0.0.1 /Admin/Settings/Index/index.html
+ERR: 1146:Table 'bsl_copy.admin_auth_group_access' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `admin_auth_group_access`
+
+[ 2016-12-29T06:35:51+08:00 ] 127.0.0.1 /Admin/Settings/SetMenu/setMenu.html
+ERR: 1146:Table 'bsl_copy.menu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `menu`
+
+[ 2016-12-29T07:06:22+08:00 ] 127.0.0.1 /Admin/Article/Index/index.html
+ERR: 1146:Table 'bsl_copy.column' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `column`
+
+[ 2016-12-29T07:07:10+08:00 ] 127.0.0.1 /Admin/Article/Index/index.html
+ERR: 1146:Table 'bsl_copy.dictionary' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dictionary`
+
+[ 2016-12-29T07:07:12+08:00 ] 127.0.0.1 /Admin/Article/Index/index.html
+ERR: 1146:Table 'bsl_copy.dictionary' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `dictionary`
+
+[ 2016-12-29T07:10:26+08:00 ] 127.0.0.1 /Article/Index/index.html?order=asc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `column` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined index: gid E:\web\bsl\by_admin\Admin\Controller\CommonController.class.php 第 58 行.
+SQL: SELECT `menuname`,`url`,`datatype`,`pagination`,`pagesize`,`singleselect`,`showrefresh`,`clicktoselect`,`showcolumns`,`showtoggle`,`search`,`uniqueid`,`toolbar`,`sidepagination`,`status` FROM `table` WHERE `tablename` = 'articles' AND `status` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `field`,`title`,`align`,`width`,`sortable`,`order`,`formatter`,`searchable`,`status` FROM `column` WHERE `tablename` = 'articles' AND `status` = 1 AND `limit` NOT LIKE '--' ORDER BY order_num asc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `toolbar` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `dictionary` [ RunTime:0.0180s ]
+NOTIC: [8] Undefined index: gid E:\web\bsl\by_admin\Admin\Controller\CommonController.class.php 第 58 行.
+SQL: SELECT `tablename`,`field_id`,`field_name`,`field_title`,`type`,`class`,`style`,`default_value`,`status` FROM `toolbar` WHERE `tablename` = 'articles' AND `limit` NOT LIKE '--' AND `type` IN ('1','2','3','4') AND `status` = 1 ORDER BY order_num asc  [ RunTime:0.0010s ]
+SQL: SELECT `tablename`,`field_id`,`field_name`,`field_title`,`type`,`class`,`style`,`default_value`,`status` FROM `toolbar` WHERE `tablename` = 'articles' AND `limit` NOT LIKE '--' AND `type` = 5 AND `status` = 1 ORDER BY order_num asc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: user_info E:\web\bsl\by_admin\Runtime\Cache\Admin\204534c08bfe886dea4afdb61a6ccf4b.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T07:12:05+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:12:08+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:12:09+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:13:50+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:14:08+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:14:19+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:15:11+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:15:21+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:17:05+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?sort=id&order=desc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:17:05+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?sort=id&order=asc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Aritcle/Index
+
+[ 2016-12-29T07:17:05+08:00 ] 127.0.0.1 /Admin/Aritcle/Index/getArticles.html?sort=name&order=desc&limit=20&offset=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Aritcle/Index
+

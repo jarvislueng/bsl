@@ -1,0 +1,28 @@
+<!--main content start-->
+<section id="main-content">
+	<section class="wrapper">
+		<!--breadcrumbs start -->
+		<div class="col-lg-12">
+			<ul class="breadcrumb">
+				<li><a href="<{$Think.INDEX}>"><i class="icon-home"></i> 首页</a></li>
+				<li><a href="#">test</a></li>
+				<li class="active" id='menu_breadcrumb'>table_example</li>
+			</ul>
+		</div>
+		<div class="col-lg-12">
+			<include file="Header:table" />
+		</div>
+		<!--breadcrumbs end -->
+	</section>
+</section>
+<!--main content end-->
+
+<script type="text/javascript">
+
+function test(value,row,index){  
+    var e = '<a href="javascript:void(0)"  onclick="showEditDialog('+row.id+')">编辑</a> ';  
+    var d = '<a href="javascript:void(0)"  onclick="deleteServer('+ row.id +')">删除</a> ';  
+    return e+d;  
+}
+
+</script>

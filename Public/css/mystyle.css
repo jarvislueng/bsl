@@ -1,0 +1,144 @@
+.datepicker {
+	position: relative;
+	float: right;
+}
+
+.datepicker i {
+	position: absolute;
+	bottom: 10px;
+	right: 24px;
+	top: auto;
+	cursor: pointer;
+}
+
+.default-bg-color {
+	background: #f7f9fa !important;
+}
+
+#container {
+	margin: 0 24px;
+	background-color: #fff;
+	border-radius: 2px;
+	-webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.07);
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.07);
+	width: auto;
+}
+
+.clearfix:before, .clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+/* menu */
+#sidebar {
+	background: #fff;
+	height: auto;
+}
+
+ul.sidebar-menu li ul.sub li {
+	background: #fff;
+}
+
+ul.sidebar-menu li ul.sub li a:hover, ul.sidebar-menu li ul.sub li.active a
+	{
+	color: #0e2026;
+	background: #edf0f2;
+}
+
+ul.sidebar-menu li ul.sub li a {
+	color: #0e2026;
+	background: #fff;
+	font-size: 14px;
+}
+
+ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus
+	{
+	color: #a6aeb3;
+	background: #fff;
+}
+/* menu */
+#main-content {
+	background: #fff;
+	min-height: 745px;
+	border-left: 1px solid #edf0f2;
+}
+
+.fixed-table-container {
+	border: none;
+}
+
+.fixed-table-container tbody td {
+	border: none;
+}
+
+.bootstrap-table .table {
+	border: none;
+}
+
+.table thead>tr>th, .table tbody>tr>th, .table tfoot>tr>th, .table thead>tr>td,
+	.table tbody>tr>td, .table tfoot>tr>td {
+	border: none;
+}
+
+.bootstrap-table .table>thead>tr>th {
+	border-bottom: none;
+}
+
+.bootstrap-table .table thead {
+	background-color: #f7f9fa;
+	/*border-bottom: 2px solid #edf0f2;*/
+}
+
+.bootstrap-table .table tbody td {
+	font-size: 12px;
+}
+
+.bootstrap-table .table thead th {
+	color: #76858c;
+	font-weight: normal;
+	padding: 12px 8px;
+}
+
+.bootstrap-table .table thead th:not (:first-child ){
+	border-left: 1px solid #edf0f2;
+}
+
+.btn-operation {
+	background: none;
+	border: none;
+	color: #35c8e6;
+}
+
+.bootstrap-table .table tbody td .card-view {
+	text-align: left;
+}
+
+.fixed-table-body .card-view .title {
+	font-weight: normal;
+}
+
+.text-left {
+	text-align: left !important;
+}
+
+.text-right {
+	text-align: right !important;
+}
+
+.text-center {
+	text-align: center !important;
+}
+
+body, button, input, select, textarea {
+	font: 14px/2 "-apple-system", BlinkMacSystemFont, Roboto,
+		"Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB",
+		"Source Han Sans", "Noto Sans CJK Sc", "Microsoft YaHei", sans-serif
+}
+
+.fixed-table-pagination .pagination-info {
+	color: #a1a1a1;
+}

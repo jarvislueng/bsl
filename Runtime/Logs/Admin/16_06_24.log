@@ -1,0 +1,1239 @@
+[ 2016-06-24T08:18:00+08:00 ] 127.0.0.1 /sjby_admin/index.php/Admin/Index/index
+ERR: 非法操作:Index
+
+[ 2016-06-24T08:18:13+08:00 ] 127.0.0.1 /sjby_admin/index.php/Admin/Index/
+ERR: 非法操作:Index
+
+[ 2016-06-24T08:18:18+08:00 ] 127.0.0.1 /sjby_admin/index.php/Admin/
+ERR: 非法操作:index
+
+[ 2016-06-24T08:18:25+08:00 ] 127.0.0.1 /sjby_admin/index.php/Admin
+ERR: 非法操作:index
+
+[ 2016-06-24T08:51:29+08:00 ] 127.0.0.1 /sjby_admin/index.php/Admin
+ERR: 非法操作:index
+
+[ 2016-06-24T08:51:49+08:00 ] 127.0.0.1 /sjby_admin/index.php?Admin/Index/index
+ERR: Think\Model:show_menu方法不存在！
+
+[ 2016-06-24T09:03:49+08:00 ] 127.0.0.1 /sjby_admin/index.php?Admin/Index/index
+ERR: Think\Model:show_menu方法不存在！
+
+[ 2016-06-24T09:04:13+08:00 ] 127.0.0.1 /sjby_admin/index.php?Admin/Index/index
+ERR: Think\Model:show_menu方法不存在！
+
+[ 2016-06-24T09:04:13+08:00 ] 127.0.0.1 /sjby_admin/index.php?Admin/Index/index
+ERR: Think\Model:show_menu方法不存在！
+
+[ 2016-06-24T09:40:04+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/SetMenu.html
+ERR: 非法操作:SetMenu
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:16+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:45:17+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:46:01+08:00 ] 127.0.0.1 /sjby_admin/index.php/Index/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T09:56:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:04:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:33:19+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:33:25+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:33:57+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:36:59+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:37:03+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:37:41+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:37:44+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:37:55+08:00 ] 127.0.0.1 /sjby_admin/index.php/Admin/SetMenu/addmenu
+ERR: 非法操作:SetMenu
+
+[ 2016-06-24T10:38:19+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:38:57+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T10:41:15+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:43:56+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:44:32+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:44:39+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:51:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:51:41+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:51:47+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/addmenu.html
+ERR: 无法加载控制器:SetMenu
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:33+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:34+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:45+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:46+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:48+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:49+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:50+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T17:52:50+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:52+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:53+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:54+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:54+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:54+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:54+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:08:54+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/bootstrap-responsive.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-responsive.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/style-metro.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/font-awesome.min.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.gritter.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/uniform.default.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/daterangepicker.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/fullcalendar.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jqvmap.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/css/jquery.easy-pie-chart.css
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-1.10.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:22+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-migrate-1.2.1.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery-ui-1.10.1.custom.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/bootstrap.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.slimscroll.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.blockui.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.cookie.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.uniform.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.russia.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:23+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.world.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.europe.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.germany.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.usa.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.vmap.sampledata.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.flot.resize.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.pulsate.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/date.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/daterangepicker.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.gritter.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/fullcalendar.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.easy-pie-chart.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/jquery.sparkline.min.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/app.js
+ERR: 非法操作:media
+
+[ 2016-06-24T18:09:24+08:00 ] 127.0.0.1 /sjby_admin/index.php/SetMenu/media/js/index.js
+ERR: 非法操作:media
+

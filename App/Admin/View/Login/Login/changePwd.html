@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="Mosaddek">
+<meta name="keyword"
+	content="FlatLab, Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
+<link rel="shortcut icon" href="<{$Think.ASSETS}>img/favicon.html">
+
+<title>修改密码</title>
+
+<!-- Bootstrap core CSS -->
+<link href="<{$Think.ASSETS}>css/bootstrap.min.css" rel="stylesheet">
+<link href="<{$Think.ASSETS}>css/bootstrap-reset.css" rel="stylesheet">
+<!--&lt;!&ndash;external css&ndash;&gt;-->
+<link href="<{$Think.ASSETS}>assets/font-awesome/css/font-awesome.css"
+	rel="stylesheet" />
+<!--&lt;!&ndash; Custom styles for this template &ndash;&gt;-->
+<link href="<{$Think.ASSETS}>css/style.css" rel="stylesheet">
+<link href="<{$Think.ASSETS}>css/style-responsive.css" rel="stylesheet" />
+<script src="<{$Think.ASSETS}>js/jquery-1.8.3.min.js"></script>
+<script src="<{$Think.ASSETS}>js/sha1.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+<!--[if lt IE 9]>
+    <script src="<{$Think.ASSETS}>js/html5shiv.js"></script>
+    <script src="<{$Think.ASSETS}>js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="login-body">
+	<div class="container">
+		<form class="form-signin" id="change_pwd"
+			action="<{:U('Admin/Login/Login/checkChangePwd')}>" method="post">
+			<h2 class="form-signin-heading">修改密码</h2>
+			<div class="login-wrap">
+				<input type="text" id="account" name="account" class="form-control"
+					value="<{$account}>" disabled> <input type="password"
+					id="old_password" name="opw" class="form-control"
+					placeholder=" 请 输 入 原 密 码 "> <input type="password"
+					id="new_password" name="npw" class="form-control"
+					placeholder=" 请 输 入 新 密 码 "> <input type="password"
+					id="rep_password" class="form-control" placeholder=" 请 重 新 输 入 ">
+
+				<button class="btn btn-lg btn-login btn-block" type="submit"
+					name="sub" value="修改">修改</button>
+				<div>
+					<p style="color: red"><{$errMsg}></p>
+				</div>
+			</div>
+		</form>
+	</div>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$('#change_pwd').submit(function(){
+			var old_password = $('#old_password').val();
+			var new_password = $('#new_password').val();
+			var rep_password = $('#rep_password').val();
+			
+			if (old_password == "") {
+				alert("请输入原密码");
+				return false;
+			}
+			if (new_password != rep_password)  {
+				alert("两次密码不一致");
+				return false;
+			}
+
+			var old_pwd = Sha1.hash(old_password);
+			var new_pwd = Sha1.hash(new_password);
+			var rep_pwd = Sha1.hash(rep_password);
+			$('#old_password').val(old_pwd);
+			$('#new_password').val(new_pwd);
+			$('#rep_password').val(rep_pwd);
+			
+			return true;
+		});
+	});
+</script>
+</body>
+</html>

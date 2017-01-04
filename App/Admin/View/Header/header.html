@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="Mosaddek">
+<meta name="keyword"
+	content="FlatLab, Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
+<link rel="shortcut icon" href="/Public/img/favicon.html">
+
+<title>奔·八路后台</title>
+
+<!-- Bootstrap core CSS -->
+<link href="/Public/css/bootstrap.min.css" rel="stylesheet">
+<link href="/Public/css/bootstrap-reset.css" rel="stylesheet">
+<!--external css-->
+<link href="/Public/assets/font-awesome/css/font-awesome.css"
+	rel="stylesheet" />
+<link
+	href="/Public/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css"
+	rel="stylesheet" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Public/css/owl.carousel.css"
+	type="text/css">
+<!-- Custom styles for this template -->
+<link href="/Public/css/style.css" rel="stylesheet">
+<link href="/Public/css/style-responsive.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" media="all"
+	href="/Public/css/daterangepicker.css" />
+<link rel="stylesheet" type="text/css" media="all"
+	href="/Public/css/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" media="all"
+	href="/Public/css/mystyle.css" />
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+<!--[if lt IE 9]>
+    <script src="/Public/js/html5shiv.js"></script>
+    <script src="/Public/js/respond.min.js"></script>
+    <![endif]-->
+<!--Frist load js-->
+<!-- <script src="/Public/js/jquery.js"></script> -->
+<script src="/Public/js/jquery-1.8.3.min.js"></script>
+</head>
+
+<body class="default-bg-color">
+
+	<section id="container" class="white-bg">
+		<!--header start-->
+		<header class="header default-bg-color">
+			<div class="sidebar-toggle-box">
+				<div data-original-title="Toggle Navigation" data-placement="right"
+					class="icon-reorder tooltips"></div>
+			</div>
+			<!--logo start-->
+			<a href="#" class="logo">后台<span>管理</span></span></a>
+			<!--logo end-->
+			<div class="nav notify-row" id="top_menu"></div>
+			<div class="top-nav ">
+				<!--search & user info start-->
+				<ul class="nav pull-right top-menu">
+					<li><input type="text" class="form-control search"
+						placeholder="Search"></li>
+					<!-- user login dropdown start-->
+					<li class="dropdown"><a data-toggle="dropdown"
+						class="dropdown-toggle" href="#"> <img alt=""
+							src="/Public/img/avatar1_small.jpg"> <span class="username"><{$user_info.username}></span>
+							<b class="caret"></b>
+					</a>
+						<ul class="dropdown-menu extended logout">
+							<div class="log-arrow-up"></div>
+							<li><a href="#"><i class=" icon-suitcase"></i>暂无</a></li>
+							<li><a href="<{:U('Admin/Login/Login/changePwd')}>"><i
+									class="icon-cog"></i>修改密码</a></li>
+							<li><a href="#"><i class="icon-bell-alt"></i>暂无</a></li>
+							<li><a href="<{:U('Admin/Login/Login/loginOut')}>"><i
+									class="icon-key"></i>退出系统</a></li>
+						</ul></li>
+					<!-- user login dropdown end -->
+				</ul>
+				<!--search & user info end-->
+			</div>
+		</header>
+		<!--header end-->
+		<!--sidebar start-->
+		<section class="navbar-left">
+			<div id="sidebar" class="nav-collapse clearfix">
+				<!-- sidebar menu start-->
+				<ul class="sidebar-menu clearfix">
+					<li class=""><a class=""
+						href="<{:U('Admin/Settings/Index/index')}>"> <i
+							class="icon-dashboard"></i> <span>首页</span>
+					</a></li>
+					<li class="sub-menu active"><a href="javascript:void(0);"
+						class=""> <i class="icon-cogs"></i> <span>设置</span> <span
+							class="arrow"></span>
+					</a>
+						<ul class="sub">
+							<li><a class="" href="<{:U('Admin/Article/Index/index')}>">资讯文章</a></li>
+							<li><a class="" href="#">首页轮播图片</a></li>
+						</ul></li>
+				</ul>
+				<!-- sidebar menu end-->
+			</div>
+		</section>
+		<!--sidebar end-->
+		<script type="text/javascript">
+    	$(function(){
+    		var url  = window.location.href;
+    		var ele  = $("#sidebar a");
+    		var nav  = $('#menu_breadcrumb').html();
+    		var flag = 1;
+    		if (nav != null) {
+    			for(var i = ele.length - 1; i >= 0; i--) {
+    				if (nav == ele[i].innerHTML) {
+	    				$(ele[i].parentNode).addClass("active");
+	    				$(ele[i].parentNode.parentNode.parentNode).addClass("active");
+	    				flag = 0;
+	    				break;
+    				}
+    			}
+
+    		}
+    		if (flag) {
+    			for(var i = 0, n = ele.length; i < n; i++) {
+	    			var href 	 = ele[i].href;
+	    			var href_arr = href.split(/\/[^\/]*.html/);
+	    			if (url.indexOf(href_arr[0]) == 0) {
+                        $(ele[i].parentNode).addClass("active");
+	    				$(ele[i].parentNode.parentNode.parentNode).addClass("active");
+	    				break;
+	    			}
+	    		}
+    		}
+    	});
+    </script>
